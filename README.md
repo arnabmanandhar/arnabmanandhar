@@ -1,7 +1,7 @@
-# Hi 👋, I'm Arnab Manandhar
+# I'm Arnab Manandhar, welcome to my humble abode!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/arnab-manandhar](https://www.linkedin.com/in/arnab-manandhar-b03ba3269/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-manandhar-b03ba3269/)
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
