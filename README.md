@@ -1,4 +1,4 @@
-# I'm Arnab Manandhar, welcome to my humble abode!
+# I'm Arnab Manandhar, Welcome to my humble abode!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-manandhar-b03ba3269/)
