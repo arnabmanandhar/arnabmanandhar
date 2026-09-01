@@ -11,20 +11,26 @@ Currently exploring reinforcement learning and agent environments, with ongoing 
 
 ## Technical Skills
 
-**Modeling**
+### Modeling
+
 PyTorch, Transformers, CNNs, RNNs, transfer learning, model fine-tuning, YOLO
 
-**RAG & Retrieval**
+### RAG & Retrieval
+
 LangGraph, LangChain, RAG pipelines, BM25, dense retrieval, hybrid retrieval, embeddings, FAISS, grounded generation
 
-**Evaluation & Agents**
+### Evaluation & Agents
+
 Recall@k, MRR, nDCG, MAP, LLM-as-judge, faithfulness evaluation, claim verification, agentic workflows, prompt engineering, LLM APIs
 
-**Systems & Infrastructure**
+### Systems & Infrastructure
+
 FastAPI, REST APIs, PostgreSQL, MongoDB, Docker, Linux, GitHub Actions, CI/CD, AWS EC2, AWS S3, MLflow, DVC
 
-**Languages & Tools**
+### Languages & Tools
+
 Python, SQL, C/C++, Bash, Git, Jupyter, React, Next.js
+
 
 Open to technical collaborations, open-source work, and conversations around LLM evaluation, RAG architecture, and agent systems.
 
