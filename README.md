@@ -1,35 +1,45 @@
-#  Hi, I'm Arnab Manandhar
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=200&section=header&text=Cite%20Your%20Sources.&fontSize=48&fontColor=ffffff&desc=Arnab%20Manandhar,%20Building%20Trustworthy%20AI&descSize=20&descAlignY=70&fontAlignY=40)
 
-Passionate about Machine Learning, Full-Stack Development, and building real-world applications.  
-to learn, to build.
+## About Me
 
-##  Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-manandhar-b03ba3269/)
+AI Engineer working across **LLM evaluation, RAG systems, agentic workflows, and ML infrastructure**. I build end-to-end AI systems spanning model development, evaluation, backend engineering, and deployment.
 
+My work focuses on **measuring model behavior, improving retrieval, grounding generation in evidence, and building reliable evaluation loops** around AI systems. I’m particularly interested in the engineering problems behind production AI, including reproducibility, observability, and failure analysis.
 
-##  Tech Stack:
+Currently exploring **reinforcement learning and agent environments**, with ongoing work in PPO, DPO, reward design, and ground-truth verification for agent trajectories.
 
-###  Machine Learning & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+[LinkedIn](https://linkedin.com/in/arnabmanandhar) · arnab.manandhar11@gmail.com
 
-###  Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+## Technical Skills
 
-###  Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### LLM & AI Systems
 
-###  Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+RAG pipelines, LangGraph, LangChain, agentic workflows, prompt engineering, LLM APIs, grounded generation, fine-tuning
 
-###  Programming
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### Evaluation & Retrieval
+
+Recall@k, MRR, nDCG, MAP, faithfulness evaluation, claim verification, LLM-as-judge, BM25, dense retrieval, hybrid retrieval, embeddings, FAISS
+
+### ML & Deep Learning
+
+PyTorch, Transformers, CNNs, RNNs, transfer learning, model fine-tuning
+
+### Backend & Systems
+
+FastAPI, REST APIs, PostgreSQL, MongoDB, Docker, Linux
+
+### DevOps & MLOps
+
+GitHub Actions, CI/CD, AWS EC2, AWS S3, MLflow, DVC
+
+### Languages & Tools
+
+Python, SQL, C/C++, Bash, Git, Jupyter, React, Next.js, Dart/Flutter
+
+## Projects
+
+[anchor](https://github.com/arnabmanandhar/anchor) · [nyaya-ai](https://github.com/arnabmanandhar/nyaya-ai) · [spashta](https://github.com/arnabmanandhar/spashta) · [SmartCal](https://github.com/arnabmanandhar/SmartCal)
+
+I’m open to **technical collaborations, open-source work, and conversations around LLM evaluation, RAG architecture, and agent systems**.
+
+[LinkedIn](https://linkedin.com/in/arnabmanandhar) · arnab.manandhar11@gmail.com
