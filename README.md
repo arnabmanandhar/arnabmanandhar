@@ -9,6 +9,14 @@ Currently exploring reinforcement learning and agent environments, with ongoing 
 
 [LinkedIn](https://linkedin.com/in/arnabmanandhar) · arnab.manandhar11@gmail.com
 
+## Featured Project
+[Anchor] — deterministic-first evaluation and tracing for RAG pipelines.
+
+Anchor evaluates retrieval with Recall@k, MRR, nDCG, and MAP, audits generation faithfulness at the claim level, captures pipeline traces and latency, and lets developers compare pipeline versions before deployment.
+
+I'm also exploring reinforcement learning and agent environments, including PPO, DPO, reward design, and ground-truth verification for agent trajectories.
+
+
 ## Technical Skills
 
 ### Modeling
